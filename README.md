@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sjselby95
+- 👀 I’m interested in data, programming, learning, and travel
+- 🌱 I’m currently learning R, SQL, Python
+- 💞️ I’m looking to collaborate on projects to strengthen my Data Analysis skills
+- 📫 How to reach me email me at sjselby95@gmail.com
